@@ -2,6 +2,7 @@
 
 # other files
 commit.bat
+/other_data
 
 # dependencies
 /node_modules
